@@ -2,7 +2,7 @@
 
 This repository contains the code associated with our paper titled "Style Classification of Rabbinic Literature for Detection of Lost Midrash Tanhuma Material". 
 
-![Project Image](./path-to-your-image.png)
+![Project Image](./images/thesis_style1.png)
 
 ## About The Project
 
@@ -15,7 +15,7 @@ The paper associated with this project can be found [here](https://arxiv.org/abs
 
 ## Streamlit Application
 
-The Streamlit application associated with this project can be found in the [Streamlit_app](./Streamlit_app) directory.
+The Streamlit application associated with this project can be found in the [streamlit_app](./streamlit_app) directory.
 
 ## Contact
 
