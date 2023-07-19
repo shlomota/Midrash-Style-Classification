@@ -2,7 +2,7 @@
 
 This repository contains the code associated with our paper titled "Style Classification of Rabbinic Literature for Detection of Lost Midrash Tanhuma Material". 
 
-![Project Image](./images/thesis_style1.png)
+![Project Image](./images/style.png)
 
 ## About The Project
 
